@@ -7,7 +7,7 @@
 - **Backend:** [Backend Deployment](https://food-del-backend.onrender.com)  
   *Note: The backend is deployed on Render's free plan and may go to sleep mode after inactivity. It will resume after approximately 1.5 minutes.*
 
-![MERN Stack](https://upload.wikimedia.org/wikipedia/commons/6/6a/MERN_Logo.png) <!-- MERN Stack Logo -->
+![MERN Stack](https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png) <!-- MERN Stack Logo -->
 
 This repository contains the complete Food Delivery application, including the Admin Frontend, User Frontend, and Backend. The application allows users to order food online and provides an interface for administrators to manage the system.
 
