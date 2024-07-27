@@ -4,7 +4,7 @@
 
 - **Admin Frontend:** [Admin Frontend Deployment](https://food-del-frontend-admin-61ou2vkbu-amitsingh771087s-projects.vercel.app/) <!-- Replace with your admin frontend deployment link -->
 - **User Frontend:** [User Frontend Deployment](https://food-del-frontend-user-92jl.vercel.app/) <!-- Replace with your user frontend deployment link -->
-- **Backend:** [Backend Deployment]([https://your-deployment-link.com](https://food-del-backend.onrender.com)) <!-- Replace with your backend deployment link -->
+- **Backend:** [Backend Deployment](https://your-deployment-link.com](https://food-del-backend.onrender.com) <!-- Replace with your backend deployment link -->
 
 ![MERN Stack](https://your-logo-url.com/mern-logo.png) <!-- Replace with your MERN stack logo URL -->
 
