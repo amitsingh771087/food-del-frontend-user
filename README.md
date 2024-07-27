@@ -2,11 +2,12 @@
 
 **Deployment Links:**
 
-- **Admin Frontend:** [Admin Frontend Deployment](https://food-del-frontend-admin-61ou2vkbu-amitsingh771087s-projects.vercel.app/) <!-- Replace with your admin frontend deployment link -->
-- **User Frontend:** [User Frontend Deployment](https://food-del-frontend-user-92jl.vercel.app/) <!-- Replace with your user frontend deployment link -->
-- **Backend:** [Backend Deployment](https://your-deployment-link.com](https://food-del-backend.onrender.com) <!-- Replace with your backend deployment link -->
+- **Admin Frontend:** [Admin Frontend Deployment](https://food-del-frontend-admin-61ou2vkbu-amitsingh771087s-projects.vercel.app/)
+- **User Frontend:** [User Frontend Deployment](https://food-del-frontend-user-92jl.vercel.app/)
+- **Backend:** [Backend Deployment](https://food-del-backend.onrender.com)  
+  *Note: The backend is deployed on Render's free plan and may go to sleep mode after inactivity. It will resume after approximately 1.5 minutes.*
 
-![MERN Stack](https://your-logo-url.com/mern-logo.png) <!-- Replace with your MERN stack logo URL -->
+![MERN Stack](https://upload.wikimedia.org/wikipedia/commons/6/6a/MERN_Logo.png) <!-- MERN Stack Logo -->
 
 This repository contains the complete Food Delivery application, including the Admin Frontend, User Frontend, and Backend. The application allows users to order food online and provides an interface for administrators to manage the system.
 
